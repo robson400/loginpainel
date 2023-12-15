@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import styles from '../styles/Cadastro.module.css'
 import LoginCard from '../src/components/loginCard/loginCard'
 import Input from '../src/components/input/inputs'
